@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+python-multipart
+pydantic
+thefuzz
+scikit-learn
+streamlit
+plotly
+requests
+sentence-transformers
