@@ -10,8 +10,8 @@ INGREDIENTS_API_URL = "https://y-trust-003-51424904642.europe-west1.run.app/api/
 RECIPE_API_URL = "https://y-trust-003-51424904642.europe-west1.run.app/api/recipe"
 
 # Load and set logo as icon
-#logo = Image.open("/Users/aurelie/code/Y-TRUST-FRONT-END/logo Y-trust.png")
-#st.set_page_config(page_title="Y-TRUST", page_icon=logo, layout="centered")
+logo = Image.open("/Users/aurelie/code/Y-TRUST-FRONT-END/logo Y-trust.png")
+st.set_page_config(page_title="Y-TRUST", page_icon=logo, layout="centered")
 st.title("Y-TRUST")
 
 # --- SEARCH BAR ---
