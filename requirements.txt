@@ -9,3 +9,4 @@ streamlit
 plotly
 requests
 sentence-transformers
+geopy
